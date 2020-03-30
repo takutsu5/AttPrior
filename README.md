@@ -39,6 +39,7 @@ toy_model_initVals.txt: PriorInfoFile
 
 # Example
 $ ./attprior toy_model.boolnet toy_model_initVals.txt
+
 Then, you can see from "found_attractors.txt"  that
 this Boolean network has two periodic attractors with periods 3 and 9.
 
