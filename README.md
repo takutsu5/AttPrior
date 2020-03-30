@@ -24,7 +24,9 @@ Parentheses must not be omitted.
 
 2. Prior information file
 For each node, the following information should be provided.
+
 - Node name, 0 or 1, probability.
+
 Note that at most 3 different values can be specified as probabilities.
 If the number of nodes is large, the probabilities for most nodes should be 1.
 
@@ -35,6 +37,7 @@ The meaning of this file can be easily understood.
 
 # Example Files
 toy_model.boolnet:  BoolNetFile
+
 toy_model_initVals.txt: PriorInfoFile
 
 # Example
