@@ -1,0 +1,10 @@
+Gene1	1	1
+Gene2	0	0.7
+Gene3	0	0.7
+Gene4	0	1
+Gene5	1	0.9
+Gene6	0	1
+Gene7	1	1
+Gene8	1	0.7
+Gene9	1	0.7
+Gene10	1	0.9
