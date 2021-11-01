@@ -1215,7 +1215,9 @@ int sort_prob()
 			DIFPROB[difp] = p1;
 			j = i;
 			difp++;
-			if (difp > 3) {
+/* TA2021Nov */
+			if (difp >= 3) {
+/* TA2021Nov */
 				printf("Too many probability values: %d\n",difp);
 				exit(1);
 			}
