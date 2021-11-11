@@ -10,7 +10,7 @@ traverses the trajectory of the state transition diagram until reaching to an at
 The algorithm stops repetition once the number of examined states exceeds a given limit.
 
 # Installation 
-gcc -o attprior2 -lm attprior2.c
+gcc -o attprior2 attprior2.c -lm
 
 # Usage
 attprior2 BoolNetFileName PriorInfoFileName
